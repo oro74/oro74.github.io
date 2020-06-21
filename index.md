@@ -9,5 +9,5 @@ Die Serie spielt im 24. Jahrhundert und erzaehlt die Missionen des Raumschiffs E
 * unbeugsam
 * diplomatisch
 * taktisch unkonventionell 
-* loyal gegenüber der Crew
+* loyal gegenueber der Crew
 * Lieblingstee Ear Grey
