@@ -11,3 +11,5 @@ Die Serie spielt im 24. Jahrhundert und erzaehlt die Missionen des Raumschiffs E
 * taktisch unkonventionell 
 * loyal gegenueber der Crew
 * Lieblingstee Ear Grey
+
+> And the sky is the limit
