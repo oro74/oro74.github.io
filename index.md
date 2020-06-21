@@ -13,3 +13,5 @@ Die Serie spielt im 24. Jahrhundert und erzaehlt die Missionen des Raumschiffs E
 * Lieblingstee Ear Grey
 
 > And the sky is the limit
+
+<img src="http:www.JeanLucPicard.de/keinBildgefunden.jpg" alt="kein Lizenzfreies Bild gefunden">
